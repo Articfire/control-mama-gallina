@@ -1,0 +1,17 @@
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\bin\Debug\Clase_DPS1.exe.config
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\bin\Debug\Clase_DPS1.exe
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\bin\Debug\Clase_DPS1.pdb
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.Form1.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.central_admin.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.central_user.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.Corte.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.Añadir_Tarea.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.Historial_corte.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.Registro_Inventario.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.login.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.exe
+C:\Users\Jonathan\Desktop\Clase_DPS1\Clase_DPS1\obj\Debug\Clase_DPS1.pdb
